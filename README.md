@@ -8,7 +8,6 @@ Here are the technologies used in this project.
 
 * Ruby on Rails
 * PostgreSQL
-* Css
   
 
 ## Services Used
