@@ -21,7 +21,10 @@ rails s
 
 ## How to use
 
-## Create an authenticated login and post and comment on people's posts. Also interact with likes to show that you enjoyed a post.
+* Registration: Create a user with a password and log in with your email.
+* Posts: Create, delete or update your posts.
+* Comments: Interact with other people's posts, make comments.
+* Like: Like people's posts to show that you liked them.
 
 ![Initial image](https://github.com/dev99pedro/Blog/blob/main/app/assets/images/img.png)
 
