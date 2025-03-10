@@ -1,24 +1,35 @@
-# README
+## Blog
+Blog with Ruby on Rails, using Devise for authentication and PostgreSQL for data storage. Implemented features like post creation, commenting, and liking posts.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Technology 
 
-* Ruby version
+Here are the technologies used in this project.
 
-* System dependencies
+* Ruby on Rails
+* PostgreSQL
+* Css
+  
 
-* Configuration
+## Services Used
 
-* Database creation
+* Github
 
-* Database initialization
+## Getting started
 
-* How to run the test suite
+To run the project:
+rails s
 
-* Services (job queues, cache servers, search engines, etc.)
+## How to use
 
-* Deployment instructions
+## Create an authenticated login and post and comment on people's posts. Also interact with likes to show that you enjoyed a post.
 
-* ...
+![Initial image](https://github.com/dev99pedro/Blog/blob/main/app/assets/images/img.png)
+
+
+## Links
+  - Repository: https://github.com/dev99pedro/Blog
+  ## Authors
+
+  * **Pedro Ascari Azevedo** 
+  Thanks to visiting me and good coding!
